@@ -5,3 +5,4 @@
    https://github.com/DKazhekin/DiscreteAnalysis/tree/main/CourseProject/version2
 * NLP task to match a corpus of comments to a specific class: https://drive.google.com/file/d/191xxj3EzQKpY0Mnx1JFKPBGOkcVv5lPn/view?usp=drive_link
 * NLP projects: https://drive.google.com/drive/folders/1LF6a-w5I70neos3UTxzBO-P21zoo6DS7?usp=sharing
+* ML project with full pipeline in binary classification: https://colab.research.google.com/drive/1QJgIDUgJe9MNt-ZTvHOlFJPBiYF3XwiY?usp=sharing
